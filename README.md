@@ -1,6 +1,6 @@
 # Interactive Flashcard Maker
 
-A simple interactive flashcard maker built with HTML, CSS, and JavaScript. Create and flip cards with smooth animations for an engaging study experience!
+A simple interactive flashcard maker built with HTML. Create and flip cards with smooth animations for an engaging study experience!
 
 ## Features
 
